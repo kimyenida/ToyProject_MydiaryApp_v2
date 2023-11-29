@@ -69,7 +69,6 @@ class MovieViewController: UIViewController {
             
         //json형식으로 받는다
           "accept": "application/json",
-          
           //인증키
           "Authorization": Bundle.main.db_apikey
         ]
