@@ -72,7 +72,6 @@ class MovieViewController: UIViewController {
           
           //인증키
           "Authorization": Bundle.main.db_apikey
-
         ]
 
         // 변경가능한 URL생성(엔드포인트)
